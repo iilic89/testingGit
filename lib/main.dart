@@ -51,11 +51,16 @@ class _MyHomePageState extends State<MyHomePage> {
       body: const Stack(
         children: [
            Center(
+<<<<<<< HEAD
             child: Text("Third change"),
       ),
       Center(
             child: Text("Fifth change"),
       ),
+=======
+            child: Text("Second change"),
+      )
+>>>>>>> parent of e587df9 (fourth commit)
         ],
       )
     );
