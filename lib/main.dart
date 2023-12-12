@@ -54,9 +54,6 @@ class _MyHomePageState extends State<MyHomePage> {
             child: Text("Third change"),
       ),
       Center(
-            child: Text("Fourth change"),
-      ),
-      Center(
             child: Text("Fifth change"),
       ),
         ],
